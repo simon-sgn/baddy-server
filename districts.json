@@ -1,0 +1,5640 @@
+[{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bde"
+  },
+  "code": "760",
+  "name": "District 1",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bdf"
+  },
+  "code": "761",
+  "name": "District 12",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be0"
+  },
+  "code": "770",
+  "name": "District 3",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be1"
+  },
+  "code": "771",
+  "name": "District 10",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be2"
+  },
+  "code": "772",
+  "name": "District 11",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be3"
+  },
+  "code": "773",
+  "name": "District 4",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be4"
+  },
+  "code": "774",
+  "name": "District 5",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be5"
+  },
+  "code": "775",
+  "name": "District 6",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be6"
+  },
+  "code": "776",
+  "name": "District 8",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be7"
+  },
+  "code": "778",
+  "name": "District 7",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be8"
+  },
+  "code": "725",
+  "name": "Thuan An City",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63be9"
+  },
+  "code": "001",
+  "name": "Ba Dinh District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bea"
+  },
+  "code": "002",
+  "name": "Hoan Kiem District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63beb"
+  },
+  "code": "003",
+  "name": "Tay Ho District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bec"
+  },
+  "code": "004",
+  "name": "Long Bien District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bed"
+  },
+  "code": "005",
+  "name": "Cau Giay District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bee"
+  },
+  "code": "006",
+  "name": "Dong Da District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bef"
+  },
+  "code": "007",
+  "name": "Hai Ba Trung District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf0"
+  },
+  "code": "008",
+  "name": "Hoang Mai District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf1"
+  },
+  "code": "009",
+  "name": "Thanh Xuan District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf2"
+  },
+  "code": "016",
+  "name": "Soc Son District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf3"
+  },
+  "code": "017",
+  "name": "Dong Anh District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf4"
+  },
+  "code": "018",
+  "name": "Gia Lam District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf5"
+  },
+  "code": "019",
+  "name": "Nam Tu Liem District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf6"
+  },
+  "code": "020",
+  "name": "Thanh Tri District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf7"
+  },
+  "code": "021",
+  "name": "Bac Tu Liem District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf8"
+  },
+  "code": "250",
+  "name": "Me Linh District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bf9"
+  },
+  "code": "268",
+  "name": "Ha Dong District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bfa"
+  },
+  "code": "269",
+  "name": "Son Tay Town",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bfb"
+  },
+  "code": "271",
+  "name": "Ba Vi District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bfc"
+  },
+  "code": "272",
+  "name": "Phuc Tho District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bfd"
+  },
+  "code": "273",
+  "name": "Dan Phuong District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bfe"
+  },
+  "code": "274",
+  "name": "Hoai Duc District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63bff"
+  },
+  "code": "275",
+  "name": "Quoc Oai District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c00"
+  },
+  "code": "276",
+  "name": "Thach That District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c01"
+  },
+  "code": "277",
+  "name": "Chuong My District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c02"
+  },
+  "code": "278",
+  "name": "Thanh Oai District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c03"
+  },
+  "code": "279",
+  "name": "Thuong Tin District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c04"
+  },
+  "code": "280",
+  "name": "Phu Xuyen District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c05"
+  },
+  "code": "281",
+  "name": "Ung Hoa District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c06"
+  },
+  "code": "282",
+  "name": "My Duc District",
+  "province_code": "01"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c07"
+  },
+  "code": "024",
+  "name": "Ha Giang City",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c08"
+  },
+  "code": "026",
+  "name": "Dong Van District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c09"
+  },
+  "code": "027",
+  "name": "Meo Vac District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0a"
+  },
+  "code": "028",
+  "name": "Yen Minh District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0b"
+  },
+  "code": "029",
+  "name": "Quan Ba District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0c"
+  },
+  "code": "030",
+  "name": "Vi Xuyen District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0d"
+  },
+  "code": "031",
+  "name": "Bac Me District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0e"
+  },
+  "code": "032",
+  "name": "Hoang Su Phi District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c0f"
+  },
+  "code": "033",
+  "name": "Xin Man District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c10"
+  },
+  "code": "034",
+  "name": "Bac Quang District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c11"
+  },
+  "code": "035",
+  "name": "Quang Binh District",
+  "province_code": "02"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c12"
+  },
+  "code": "040",
+  "name": "Cao Bang City",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c13"
+  },
+  "code": "042",
+  "name": "Bao Lam District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c14"
+  },
+  "code": "043",
+  "name": "Bao Lac District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c15"
+  },
+  "code": "045",
+  "name": "Ha Quang District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c16"
+  },
+  "code": "047",
+  "name": "Trung Khanh District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c17"
+  },
+  "code": "048",
+  "name": "Ha Lang District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c18"
+  },
+  "code": "049",
+  "name": "Quang Hoa District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c19"
+  },
+  "code": "051",
+  "name": "Hoa An District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1a"
+  },
+  "code": "052",
+  "name": "Nguyen Binh District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1b"
+  },
+  "code": "053",
+  "name": "Thach An District",
+  "province_code": "04"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1c"
+  },
+  "code": "058",
+  "name": "Bac Kan City",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1d"
+  },
+  "code": "060",
+  "name": "Pac Nam District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1e"
+  },
+  "code": "061",
+  "name": "Ba Be District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c1f"
+  },
+  "code": "062",
+  "name": "Ngan Son District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c20"
+  },
+  "code": "063",
+  "name": "Bach Thong District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c21"
+  },
+  "code": "064",
+  "name": "Cho Don District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c22"
+  },
+  "code": "065",
+  "name": "Cho Moi District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c23"
+  },
+  "code": "066",
+  "name": "Na Ri District",
+  "province_code": "06"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c24"
+  },
+  "code": "070",
+  "name": "Tuyen Quang City",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c25"
+  },
+  "code": "071",
+  "name": "Lam Binh District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c26"
+  },
+  "code": "072",
+  "name": "Na Hang District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c27"
+  },
+  "code": "073",
+  "name": "Chiem Hoa District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c28"
+  },
+  "code": "074",
+  "name": "Ham Yen District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c29"
+  },
+  "code": "075",
+  "name": "Yen Son District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2a"
+  },
+  "code": "076",
+  "name": "Son Duong District",
+  "province_code": "08"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2b"
+  },
+  "code": "080",
+  "name": "Lao Cai City",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2c"
+  },
+  "code": "082",
+  "name": "Bat Xat District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2d"
+  },
+  "code": "083",
+  "name": "Muong Khuong District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2e"
+  },
+  "code": "084",
+  "name": "Si Ma Cai District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c2f"
+  },
+  "code": "085",
+  "name": "Bac Ha District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c30"
+  },
+  "code": "086",
+  "name": "Bao Thang District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c31"
+  },
+  "code": "087",
+  "name": "Bao Yen District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c32"
+  },
+  "code": "088",
+  "name": "Sa Pa Town",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c33"
+  },
+  "code": "089",
+  "name": "Van Ban District",
+  "province_code": "10"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c34"
+  },
+  "code": "094",
+  "name": "Dien Bien Phu City",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c35"
+  },
+  "code": "095",
+  "name": "Muong Lay Town",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c36"
+  },
+  "code": "096",
+  "name": "Muong Nhe District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c37"
+  },
+  "code": "097",
+  "name": "Muong Cha District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c38"
+  },
+  "code": "098",
+  "name": "Tua Chua District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c39"
+  },
+  "code": "099",
+  "name": "Tuan Giao District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3a"
+  },
+  "code": "100",
+  "name": "Dien Bien District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3b"
+  },
+  "code": "101",
+  "name": "Dien Bien Dong District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3c"
+  },
+  "code": "102",
+  "name": "Muong Ang District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3d"
+  },
+  "code": "103",
+  "name": "Nam Po District",
+  "province_code": "11"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3e"
+  },
+  "code": "105",
+  "name": "Lai Chau City",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c3f"
+  },
+  "code": "106",
+  "name": "Tam Duong District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c40"
+  },
+  "code": "107",
+  "name": "Muong Te District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c41"
+  },
+  "code": "108",
+  "name": "Sin Ho District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c42"
+  },
+  "code": "109",
+  "name": "Phong Tho District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c43"
+  },
+  "code": "110",
+  "name": "Than Uyen District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c44"
+  },
+  "code": "111",
+  "name": "Tan Uyen District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c45"
+  },
+  "code": "112",
+  "name": "Nam Nhun District",
+  "province_code": "12"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c46"
+  },
+  "code": "116",
+  "name": "Son La City",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c47"
+  },
+  "code": "118",
+  "name": "Quynh Nhai District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c48"
+  },
+  "code": "119",
+  "name": "Thuan Chau District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c49"
+  },
+  "code": "120",
+  "name": "Muong La District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4a"
+  },
+  "code": "121",
+  "name": "Bac Yen District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4b"
+  },
+  "code": "122",
+  "name": "Phu Yen District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4c"
+  },
+  "code": "123",
+  "name": "Moc Chau District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4d"
+  },
+  "code": "124",
+  "name": "Yen Chau District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4e"
+  },
+  "code": "125",
+  "name": "Mai Son District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c4f"
+  },
+  "code": "126",
+  "name": "Song Ma District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c50"
+  },
+  "code": "127",
+  "name": "Sop Cop District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c51"
+  },
+  "code": "128",
+  "name": "Van Ho District",
+  "province_code": "14"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c52"
+  },
+  "code": "132",
+  "name": "Yen Bai City",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c53"
+  },
+  "code": "133",
+  "name": "Nghia Lo Town",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c54"
+  },
+  "code": "135",
+  "name": "Luc Yen District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c55"
+  },
+  "code": "136",
+  "name": "Van Yen District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c56"
+  },
+  "code": "137",
+  "name": "Mu Cang Chai District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c57"
+  },
+  "code": "138",
+  "name": "Tran Yen District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c58"
+  },
+  "code": "139",
+  "name": "Tram Tau District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c59"
+  },
+  "code": "140",
+  "name": "Van Chan District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5a"
+  },
+  "code": "141",
+  "name": "Yen Binh District",
+  "province_code": "15"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5b"
+  },
+  "code": "148",
+  "name": "Hoa Binh City",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5c"
+  },
+  "code": "150",
+  "name": "Da Bac District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5d"
+  },
+  "code": "152",
+  "name": "Luong Son District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5e"
+  },
+  "code": "153",
+  "name": "Kim Boi District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c5f"
+  },
+  "code": "154",
+  "name": "Cao Phong District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c60"
+  },
+  "code": "155",
+  "name": "Tan Lac District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c61"
+  },
+  "code": "156",
+  "name": "Mai Chau District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c62"
+  },
+  "code": "157",
+  "name": "Lac Son District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c63"
+  },
+  "code": "158",
+  "name": "Yen Thuy District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c64"
+  },
+  "code": "159",
+  "name": "Lac Thuy District",
+  "province_code": "17"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c65"
+  },
+  "code": "164",
+  "name": "Thai Nguyen City",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c66"
+  },
+  "code": "165",
+  "name": "Song Cong City",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c67"
+  },
+  "code": "167",
+  "name": "Dinh Hoa District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c68"
+  },
+  "code": "168",
+  "name": "Phu Luong District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c69"
+  },
+  "code": "169",
+  "name": "Dong Hy District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6a"
+  },
+  "code": "170",
+  "name": "Vo Nhai District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6b"
+  },
+  "code": "171",
+  "name": "Dai Tu District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6c"
+  },
+  "code": "172",
+  "name": "Pho Yen City",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6d"
+  },
+  "code": "173",
+  "name": "Phu Binh District",
+  "province_code": "19"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6e"
+  },
+  "code": "178",
+  "name": "Lang Son City",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c6f"
+  },
+  "code": "180",
+  "name": "Trang Dinh District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c70"
+  },
+  "code": "181",
+  "name": "Binh Gia District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c71"
+  },
+  "code": "182",
+  "name": "Van Lang District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c72"
+  },
+  "code": "183",
+  "name": "Cao Loc District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c73"
+  },
+  "code": "184",
+  "name": "Van Quan District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c74"
+  },
+  "code": "185",
+  "name": "Bac Son District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c75"
+  },
+  "code": "186",
+  "name": "Huu Lung District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c76"
+  },
+  "code": "187",
+  "name": "Chi Lang District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c77"
+  },
+  "code": "188",
+  "name": "Loc Binh District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c78"
+  },
+  "code": "189",
+  "name": "Dinh Lap District",
+  "province_code": "20"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c79"
+  },
+  "code": "193",
+  "name": "Ha Long City",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7a"
+  },
+  "code": "194",
+  "name": "Mong Cai City",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7b"
+  },
+  "code": "195",
+  "name": "Cam Pha City",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7c"
+  },
+  "code": "196",
+  "name": "Uong Bi City",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7d"
+  },
+  "code": "198",
+  "name": "Binh Lieu District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7e"
+  },
+  "code": "199",
+  "name": "Tien Yen District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c7f"
+  },
+  "code": "200",
+  "name": "Dam Ha District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c80"
+  },
+  "code": "201",
+  "name": "Hai Ha District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c81"
+  },
+  "code": "202",
+  "name": "Ba Che District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c82"
+  },
+  "code": "203",
+  "name": "Van Don District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c83"
+  },
+  "code": "205",
+  "name": "Dong Trieu Town",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c84"
+  },
+  "code": "206",
+  "name": "Quang Yen Town",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c85"
+  },
+  "code": "207",
+  "name": "Co To District",
+  "province_code": "22"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c86"
+  },
+  "code": "213",
+  "name": "Bac Giang City",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c87"
+  },
+  "code": "215",
+  "name": "Yen The District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c88"
+  },
+  "code": "216",
+  "name": "Tan Yen District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c89"
+  },
+  "code": "217",
+  "name": "Lang Giang District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8a"
+  },
+  "code": "218",
+  "name": "Luc Nam District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8b"
+  },
+  "code": "219",
+  "name": "Luc Ngan District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8c"
+  },
+  "code": "220",
+  "name": "Son Dong District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8d"
+  },
+  "code": "221",
+  "name": "Yen Dung District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8e"
+  },
+  "code": "222",
+  "name": "Viet Yen District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c8f"
+  },
+  "code": "223",
+  "name": "Hiep Hoa District",
+  "province_code": "24"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c90"
+  },
+  "code": "227",
+  "name": "Viet Tri City",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c91"
+  },
+  "code": "228",
+  "name": "Phu Tho Town",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c92"
+  },
+  "code": "230",
+  "name": "Doan Hung District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c93"
+  },
+  "code": "231",
+  "name": "Ha Hoa District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c94"
+  },
+  "code": "232",
+  "name": "Thanh Ba District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c95"
+  },
+  "code": "233",
+  "name": "Phu Ninh District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c96"
+  },
+  "code": "234",
+  "name": "Yen Lap District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c97"
+  },
+  "code": "235",
+  "name": "Cam Khe District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c98"
+  },
+  "code": "236",
+  "name": "Tam Nong District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c99"
+  },
+  "code": "237",
+  "name": "Lam Thao District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9a"
+  },
+  "code": "238",
+  "name": "Thanh Son District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9b"
+  },
+  "code": "239",
+  "name": "Thanh Thuy District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9c"
+  },
+  "code": "240",
+  "name": "Tan Son District",
+  "province_code": "25"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9d"
+  },
+  "code": "243",
+  "name": "Vinh Yen City",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9e"
+  },
+  "code": "244",
+  "name": "Phuc Yen City",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63c9f"
+  },
+  "code": "246",
+  "name": "Lap Thach District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca0"
+  },
+  "code": "247",
+  "name": "Tam Duong District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca1"
+  },
+  "code": "248",
+  "name": "Tam Dao District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca2"
+  },
+  "code": "249",
+  "name": "Binh Xuyen District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca3"
+  },
+  "code": "251",
+  "name": "Yen Lac District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca4"
+  },
+  "code": "252",
+  "name": "Vinh Tuong District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca5"
+  },
+  "code": "253",
+  "name": "Song Lo District",
+  "province_code": "26"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca6"
+  },
+  "code": "256",
+  "name": "Bac Ninh City",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca7"
+  },
+  "code": "258",
+  "name": "Yen Phong District",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca8"
+  },
+  "code": "259",
+  "name": "Que Vo Town",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ca9"
+  },
+  "code": "260",
+  "name": "Tien Du District",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63caa"
+  },
+  "code": "261",
+  "name": "Tu Son City",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cab"
+  },
+  "code": "262",
+  "name": "Thuan Thanh Town",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cac"
+  },
+  "code": "263",
+  "name": "Gia Binh District",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cad"
+  },
+  "code": "264",
+  "name": "Luong Tai District",
+  "province_code": "27"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cae"
+  },
+  "code": "288",
+  "name": "Hai Duong City",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63caf"
+  },
+  "code": "290",
+  "name": "Chi Linh City",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb0"
+  },
+  "code": "291",
+  "name": "Nam Sach District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb1"
+  },
+  "code": "292",
+  "name": "Kinh Mon Town",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb2"
+  },
+  "code": "293",
+  "name": "Kim Thanh District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb3"
+  },
+  "code": "294",
+  "name": "Thanh Ha District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb4"
+  },
+  "code": "295",
+  "name": "Cam Giang District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb5"
+  },
+  "code": "296",
+  "name": "Binh Giang District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb6"
+  },
+  "code": "297",
+  "name": "Gia Loc District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb7"
+  },
+  "code": "298",
+  "name": "Tu Ky District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb8"
+  },
+  "code": "299",
+  "name": "Ninh Giang District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cb9"
+  },
+  "code": "300",
+  "name": "Thanh Mien District",
+  "province_code": "30"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cba"
+  },
+  "code": "303",
+  "name": "Hong Bang District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cbb"
+  },
+  "code": "304",
+  "name": "Ngo Quyen District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cbc"
+  },
+  "code": "305",
+  "name": "Le Chan District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cbd"
+  },
+  "code": "306",
+  "name": "Hai An District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cbe"
+  },
+  "code": "307",
+  "name": "Kien An District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cbf"
+  },
+  "code": "308",
+  "name": "Do Son District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc0"
+  },
+  "code": "309",
+  "name": "Duong Kinh District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc1"
+  },
+  "code": "311",
+  "name": "Thuy Nguyen District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc2"
+  },
+  "code": "312",
+  "name": "An Duong District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc3"
+  },
+  "code": "313",
+  "name": "An Lao District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc4"
+  },
+  "code": "314",
+  "name": "Kien Thuy District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc5"
+  },
+  "code": "315",
+  "name": "Tien Lang District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc6"
+  },
+  "code": "710",
+  "name": "Go Dau District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc7"
+  },
+  "code": "316",
+  "name": "Vinh Bao District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc8"
+  },
+  "code": "317",
+  "name": "Cat Hai District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cc9"
+  },
+  "code": "318",
+  "name": "Bach Long Vi District",
+  "province_code": "31"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cca"
+  },
+  "code": "323",
+  "name": "Hung Yen City",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ccb"
+  },
+  "code": "325",
+  "name": "Van Lam District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ccc"
+  },
+  "code": "326",
+  "name": "Van Giang District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ccd"
+  },
+  "code": "327",
+  "name": "Yen My District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cce"
+  },
+  "code": "328",
+  "name": "My Hao Town",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ccf"
+  },
+  "code": "329",
+  "name": "An Thi District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd0"
+  },
+  "code": "330",
+  "name": "Khoai Chau District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd1"
+  },
+  "code": "331",
+  "name": "Kim Dong District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd2"
+  },
+  "code": "332",
+  "name": "Tien Lu District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd3"
+  },
+  "code": "333",
+  "name": "Phu Cu District",
+  "province_code": "33"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd4"
+  },
+  "code": "336",
+  "name": "Thai Binh City",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd5"
+  },
+  "code": "338",
+  "name": "Quynh Phu District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd6"
+  },
+  "code": "339",
+  "name": "Hung Ha District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd7"
+  },
+  "code": "340",
+  "name": "Dong Hung District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd8"
+  },
+  "code": "341",
+  "name": "Thai Thuy District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cd9"
+  },
+  "code": "342",
+  "name": "Tien Hai District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cda"
+  },
+  "code": "343",
+  "name": "Kien Xuong District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cdb"
+  },
+  "code": "344",
+  "name": "Vu Thu District",
+  "province_code": "34"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cdc"
+  },
+  "code": "347",
+  "name": "Phu Ly City",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cdd"
+  },
+  "code": "349",
+  "name": "Duy Tien Town",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cde"
+  },
+  "code": "350",
+  "name": "Kim Bang District",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cdf"
+  },
+  "code": "351",
+  "name": "Thanh Liem District",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce0"
+  },
+  "code": "352",
+  "name": "Binh Luc District",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce1"
+  },
+  "code": "353",
+  "name": "Ly Nhan District",
+  "province_code": "35"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce2"
+  },
+  "code": "356",
+  "name": "Nam Dinh City",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce3"
+  },
+  "code": "358",
+  "name": "My Loc District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce4"
+  },
+  "code": "359",
+  "name": "Vu Ban District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce5"
+  },
+  "code": "360",
+  "name": "Y Yen District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce6"
+  },
+  "code": "361",
+  "name": "Nghia Hung District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce7"
+  },
+  "code": "362",
+  "name": "Nam Truc District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce8"
+  },
+  "code": "363",
+  "name": "Truc Ninh District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ce9"
+  },
+  "code": "364",
+  "name": "Xuan Truong District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cea"
+  },
+  "code": "365",
+  "name": "Giao Thuy District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ceb"
+  },
+  "code": "366",
+  "name": "Hai Hau District",
+  "province_code": "36"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cec"
+  },
+  "code": "369",
+  "name": "Ninh Binh City",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ced"
+  },
+  "code": "370",
+  "name": "Tam Diep City",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cee"
+  },
+  "code": "372",
+  "name": "Nho Quan District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cef"
+  },
+  "code": "373",
+  "name": "Gia Vien District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf0"
+  },
+  "code": "374",
+  "name": "Hoa Lu District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf1"
+  },
+  "code": "375",
+  "name": "Yen Khanh District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf2"
+  },
+  "code": "376",
+  "name": "Kim Son District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf3"
+  },
+  "code": "377",
+  "name": "Yen Mo District",
+  "province_code": "37"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf4"
+  },
+  "code": "380",
+  "name": "Thanh Hoa City",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf5"
+  },
+  "code": "381",
+  "name": "Bim Son Town",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf6"
+  },
+  "code": "382",
+  "name": "Sam Son City",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf7"
+  },
+  "code": "384",
+  "name": "Muong Lat District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf8"
+  },
+  "code": "385",
+  "name": "Quan Hoa District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cf9"
+  },
+  "code": "386",
+  "name": "Ba Thuoc District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cfa"
+  },
+  "code": "387",
+  "name": "Quan Son District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cfb"
+  },
+  "code": "388",
+  "name": "Lang Chanh District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cfc"
+  },
+  "code": "389",
+  "name": "Ngoc Lac District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cfd"
+  },
+  "code": "390",
+  "name": "Cam Thuy District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cfe"
+  },
+  "code": "391",
+  "name": "Thach Thanh District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63cff"
+  },
+  "code": "392",
+  "name": "Ha Trung District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d00"
+  },
+  "code": "393",
+  "name": "Vinh Loc District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d01"
+  },
+  "code": "394",
+  "name": "Yen Dinh District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d02"
+  },
+  "code": "395",
+  "name": "Tho Xuan District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d03"
+  },
+  "code": "396",
+  "name": "Thuong Xuan District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d04"
+  },
+  "code": "397",
+  "name": "Trieu Son District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d05"
+  },
+  "code": "398",
+  "name": "Thieu Hoa District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d06"
+  },
+  "code": "399",
+  "name": "Hoang Hoa District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d07"
+  },
+  "code": "400",
+  "name": "Hau Loc District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d08"
+  },
+  "code": "401",
+  "name": "Nga Son District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d09"
+  },
+  "code": "402",
+  "name": "Nhu Xuan District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0a"
+  },
+  "code": "403",
+  "name": "Nhu Thanh District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0b"
+  },
+  "code": "404",
+  "name": "Nong Cong District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0c"
+  },
+  "code": "405",
+  "name": "Dong Son District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0d"
+  },
+  "code": "406",
+  "name": "Quang Xuong District",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0e"
+  },
+  "code": "407",
+  "name": "Nghi Son Town",
+  "province_code": "38"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d0f"
+  },
+  "code": "412",
+  "name": "Vinh City",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d10"
+  },
+  "code": "413",
+  "name": "Cua Lo Town",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d11"
+  },
+  "code": "414",
+  "name": "Thai Hoa Town",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d12"
+  },
+  "code": "415",
+  "name": "Que Phong District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d13"
+  },
+  "code": "416",
+  "name": "Quy Chau District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d14"
+  },
+  "code": "417",
+  "name": "Ky Son District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d15"
+  },
+  "code": "418",
+  "name": "Tuong Duong District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d16"
+  },
+  "code": "419",
+  "name": "Nghia Dan District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d17"
+  },
+  "code": "420",
+  "name": "Quy Hop District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d18"
+  },
+  "code": "421",
+  "name": "Quynh Luu District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d19"
+  },
+  "code": "422",
+  "name": "Con Cuong District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1a"
+  },
+  "code": "423",
+  "name": "Tan Ky District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1b"
+  },
+  "code": "424",
+  "name": "Anh Son District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1c"
+  },
+  "code": "425",
+  "name": "Dien Chau District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1d"
+  },
+  "code": "426",
+  "name": "Yen Thanh District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1e"
+  },
+  "code": "427",
+  "name": "Do Luong District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d1f"
+  },
+  "code": "428",
+  "name": "Thanh Chuong District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d20"
+  },
+  "code": "429",
+  "name": "Nghi Loc District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d21"
+  },
+  "code": "430",
+  "name": "Nam Dan District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d22"
+  },
+  "code": "431",
+  "name": "Hung Nguyen District",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d23"
+  },
+  "code": "432",
+  "name": "Hoang Mai Town",
+  "province_code": "40"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d24"
+  },
+  "code": "436",
+  "name": "Ha Tinh City",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d25"
+  },
+  "code": "437",
+  "name": "Hong Linh Town",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d26"
+  },
+  "code": "439",
+  "name": "Huong Son District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d27"
+  },
+  "code": "440",
+  "name": "Duc Tho District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d28"
+  },
+  "code": "441",
+  "name": "Vu Quang District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d29"
+  },
+  "code": "442",
+  "name": "Nghi Xuan District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2a"
+  },
+  "code": "443",
+  "name": "Can Loc District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2b"
+  },
+  "code": "444",
+  "name": "Huong Khe District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2c"
+  },
+  "code": "445",
+  "name": "Thach Ha District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2d"
+  },
+  "code": "446",
+  "name": "Cam Xuyen District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2e"
+  },
+  "code": "447",
+  "name": "Ky Anh District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d2f"
+  },
+  "code": "448",
+  "name": "Loc Ha District",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d30"
+  },
+  "code": "449",
+  "name": "Ky Anh Town",
+  "province_code": "42"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d31"
+  },
+  "code": "450",
+  "name": "Dong Hoi City",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d32"
+  },
+  "code": "452",
+  "name": "Minh Hoa District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d33"
+  },
+  "code": "453",
+  "name": "Tuyen Hoa District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d34"
+  },
+  "code": "454",
+  "name": "Quang Trach District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d35"
+  },
+  "code": "455",
+  "name": "Bo Trach District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d36"
+  },
+  "code": "456",
+  "name": "Quang Ninh District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d37"
+  },
+  "code": "457",
+  "name": "Le Thuy District",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d38"
+  },
+  "code": "458",
+  "name": "Ba Don Town",
+  "province_code": "44"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d39"
+  },
+  "code": "461",
+  "name": "Dong Ha City",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3a"
+  },
+  "code": "462",
+  "name": "Quang Tri Town",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3b"
+  },
+  "code": "464",
+  "name": "Vinh Linh District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3c"
+  },
+  "code": "465",
+  "name": "Huong Hoa District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3d"
+  },
+  "code": "466",
+  "name": "Gio Linh District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3e"
+  },
+  "code": "467",
+  "name": "Da Krong District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d3f"
+  },
+  "code": "468",
+  "name": "Cam Lo District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d40"
+  },
+  "code": "469",
+  "name": "Trieu Phong District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d41"
+  },
+  "code": "470",
+  "name": "Hai Lang District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d42"
+  },
+  "code": "471",
+  "name": "Con Co District",
+  "province_code": "45"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d43"
+  },
+  "code": "474",
+  "name": "Hue City",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d44"
+  },
+  "code": "476",
+  "name": "Phong Dien District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d45"
+  },
+  "code": "477",
+  "name": "Quang Dien District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d46"
+  },
+  "code": "478",
+  "name": "Phu Vang District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d47"
+  },
+  "code": "479",
+  "name": "Huong Thuy Town",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d48"
+  },
+  "code": "480",
+  "name": "Huong Tra Town",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d49"
+  },
+  "code": "481",
+  "name": "A Luoi District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4a"
+  },
+  "code": "482",
+  "name": "Phu Loc District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4b"
+  },
+  "code": "483",
+  "name": "Nam Dong District",
+  "province_code": "46"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4c"
+  },
+  "code": "490",
+  "name": "Lien Chieu District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4d"
+  },
+  "code": "491",
+  "name": "Thanh Khe District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4e"
+  },
+  "code": "492",
+  "name": "Hai Chau District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d4f"
+  },
+  "code": "493",
+  "name": "Son Tra District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d50"
+  },
+  "code": "494",
+  "name": "Ngu Hanh Son District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d51"
+  },
+  "code": "495",
+  "name": "Cam Le District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d52"
+  },
+  "code": "497",
+  "name": "Hoa Vang District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d53"
+  },
+  "code": "498",
+  "name": "Hoang Sa District",
+  "province_code": "48"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d54"
+  },
+  "code": "502",
+  "name": "Tam Ky City",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d55"
+  },
+  "code": "503",
+  "name": "Hoi An City",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d56"
+  },
+  "code": "504",
+  "name": "Tay Giang District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d57"
+  },
+  "code": "505",
+  "name": "Dong Giang District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d58"
+  },
+  "code": "506",
+  "name": "Dai Loc District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d59"
+  },
+  "code": "507",
+  "name": "Dien Ban Town",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5a"
+  },
+  "code": "508",
+  "name": "Duy Xuyen District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5b"
+  },
+  "code": "509",
+  "name": "Que Son District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5c"
+  },
+  "code": "510",
+  "name": "Nam Giang District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5d"
+  },
+  "code": "511",
+  "name": "Phuoc Son District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5e"
+  },
+  "code": "512",
+  "name": "Hiep Duc District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d5f"
+  },
+  "code": "513",
+  "name": "Thang Binh District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d60"
+  },
+  "code": "514",
+  "name": "Tien Phuoc District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d61"
+  },
+  "code": "515",
+  "name": "Bac Tra My District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d62"
+  },
+  "code": "516",
+  "name": "Nam Tra My District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d63"
+  },
+  "code": "517",
+  "name": "Nui Thanh District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d64"
+  },
+  "code": "518",
+  "name": "Phu Ninh District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d65"
+  },
+  "code": "519",
+  "name": "Nong Son District",
+  "province_code": "49"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d66"
+  },
+  "code": "522",
+  "name": "Quang Ngai City",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d67"
+  },
+  "code": "524",
+  "name": "Binh Son District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d68"
+  },
+  "code": "525",
+  "name": "Tra Bong District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d69"
+  },
+  "code": "527",
+  "name": "Son Tinh District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6a"
+  },
+  "code": "528",
+  "name": "Tu Nghia District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6b"
+  },
+  "code": "529",
+  "name": "Son Ha District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6c"
+  },
+  "code": "530",
+  "name": "Son Tay District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6d"
+  },
+  "code": "531",
+  "name": "Minh Long District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6e"
+  },
+  "code": "532",
+  "name": "Nghia Hanh District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d6f"
+  },
+  "code": "533",
+  "name": "Mo Duc District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d70"
+  },
+  "code": "534",
+  "name": "Duc Pho Town",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d71"
+  },
+  "code": "535",
+  "name": "Ba To District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d72"
+  },
+  "code": "536",
+  "name": "Ly Son District",
+  "province_code": "51"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d73"
+  },
+  "code": "540",
+  "name": "Quy Nhon City",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d74"
+  },
+  "code": "542",
+  "name": "An Lao District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d75"
+  },
+  "code": "543",
+  "name": "Hoai Nhon Town",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d76"
+  },
+  "code": "544",
+  "name": "Hoai An District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d77"
+  },
+  "code": "545",
+  "name": "Phu My District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d78"
+  },
+  "code": "546",
+  "name": "Vinh Thanh District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d79"
+  },
+  "code": "547",
+  "name": "Tay Son District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7a"
+  },
+  "code": "548",
+  "name": "Phu Cat District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7b"
+  },
+  "code": "549",
+  "name": "An Nhon Town",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7c"
+  },
+  "code": "550",
+  "name": "Tuy Phuoc District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7d"
+  },
+  "code": "551",
+  "name": "Van Canh District",
+  "province_code": "52"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7e"
+  },
+  "code": "555",
+  "name": "Tuy Hoa City",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d7f"
+  },
+  "code": "557",
+  "name": "Song Cau Town",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d80"
+  },
+  "code": "558",
+  "name": "Dong Xuan District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d81"
+  },
+  "code": "559",
+  "name": "Tuy An District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d82"
+  },
+  "code": "560",
+  "name": "Son Hoa District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d83"
+  },
+  "code": "561",
+  "name": "Song Hinh District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d84"
+  },
+  "code": "562",
+  "name": "Tay Hoa District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d85"
+  },
+  "code": "563",
+  "name": "Phu Hoa District",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d86"
+  },
+  "code": "564",
+  "name": "Dong Hoa Town",
+  "province_code": "54"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d87"
+  },
+  "code": "568",
+  "name": "Nha Trang City",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d88"
+  },
+  "code": "569",
+  "name": "Cam Ranh City",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d89"
+  },
+  "code": "570",
+  "name": "Cam Lam District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8a"
+  },
+  "code": "571",
+  "name": "Van Ninh District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8b"
+  },
+  "code": "572",
+  "name": "Ninh Hoa Town",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8c"
+  },
+  "code": "573",
+  "name": "Khanh Vinh District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8d"
+  },
+  "code": "574",
+  "name": "Dien Khanh District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8e"
+  },
+  "code": "575",
+  "name": "Khanh Son District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d8f"
+  },
+  "code": "576",
+  "name": "Truong Sa District",
+  "province_code": "56"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d90"
+  },
+  "code": "582",
+  "name": "Phan Rang-Thap Cham City",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d91"
+  },
+  "code": "584",
+  "name": "Bac Ai District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d92"
+  },
+  "code": "585",
+  "name": "Ninh Son District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d93"
+  },
+  "code": "586",
+  "name": "Ninh Hai District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d94"
+  },
+  "code": "587",
+  "name": "Ninh Phuoc District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d95"
+  },
+  "code": "588",
+  "name": "Thuan Bac District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d96"
+  },
+  "code": "589",
+  "name": "Thuan Nam District",
+  "province_code": "58"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d97"
+  },
+  "code": "593",
+  "name": "Phan Thiet City",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d98"
+  },
+  "code": "594",
+  "name": "La Gi Town",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d99"
+  },
+  "code": "595",
+  "name": "Tuy Phong District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9a"
+  },
+  "code": "596",
+  "name": "Bac Binh District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9b"
+  },
+  "code": "597",
+  "name": "Ham Thuan Bac District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9c"
+  },
+  "code": "598",
+  "name": "Ham Thuan Nam District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9d"
+  },
+  "code": "599",
+  "name": "Tanh Linh District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9e"
+  },
+  "code": "600",
+  "name": "Duc Linh District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63d9f"
+  },
+  "code": "601",
+  "name": "Ham Tan District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da0"
+  },
+  "code": "602",
+  "name": "Phu Qui District",
+  "province_code": "60"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da1"
+  },
+  "code": "608",
+  "name": "Kon Tum City",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da2"
+  },
+  "code": "610",
+  "name": "Dak Glei District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da3"
+  },
+  "code": "611",
+  "name": "Ngoc Hoi District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da4"
+  },
+  "code": "612",
+  "name": "Dak To District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da5"
+  },
+  "code": "613",
+  "name": "Kon Plong District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da6"
+  },
+  "code": "614",
+  "name": "Kon Ray District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da7"
+  },
+  "code": "615",
+  "name": "Dak Ha District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da8"
+  },
+  "code": "616",
+  "name": "Sa Thay District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63da9"
+  },
+  "code": "617",
+  "name": "Tu Mo Rong District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63daa"
+  },
+  "code": "618",
+  "name": "Ia H' Drai District",
+  "province_code": "62"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dab"
+  },
+  "code": "622",
+  "name": "Pleiku City",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dac"
+  },
+  "code": "623",
+  "name": "An Khe Town",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dad"
+  },
+  "code": "624",
+  "name": "Ayun Pa Town",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dae"
+  },
+  "code": "625",
+  "name": "KBang District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63daf"
+  },
+  "code": "626",
+  "name": "Dak Doa District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db0"
+  },
+  "code": "627",
+  "name": "Chu Pah District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db1"
+  },
+  "code": "628",
+  "name": "Ia Grai District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db2"
+  },
+  "code": "629",
+  "name": "Mang Yang District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db3"
+  },
+  "code": "630",
+  "name": "Kong Chro District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db4"
+  },
+  "code": "631",
+  "name": "Duc Co District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db5"
+  },
+  "code": "632",
+  "name": "Chu Prong District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db6"
+  },
+  "code": "633",
+  "name": "Chu Se District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db7"
+  },
+  "code": "634",
+  "name": "Dak Po District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db8"
+  },
+  "code": "635",
+  "name": "Ia Pa District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63db9"
+  },
+  "code": "637",
+  "name": "Krong Pa District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dba"
+  },
+  "code": "638",
+  "name": "Phu Thien District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dbb"
+  },
+  "code": "639",
+  "name": "Chu Puh District",
+  "province_code": "64"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dbc"
+  },
+  "code": "643",
+  "name": "Buon Ma Thuot City",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dbd"
+  },
+  "code": "644",
+  "name": "Buon Ho Town",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dbe"
+  },
+  "code": "645",
+  "name": "Ea H'leo District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dbf"
+  },
+  "code": "646",
+  "name": "Ea Sup District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc0"
+  },
+  "code": "647",
+  "name": "Buon Don District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc1"
+  },
+  "code": "648",
+  "name": "Cu M'gar District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc2"
+  },
+  "code": "649",
+  "name": "Krong Buk District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc3"
+  },
+  "code": "650",
+  "name": "Krong Nang District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc4"
+  },
+  "code": "651",
+  "name": "Ea Kar District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc5"
+  },
+  "code": "652",
+  "name": "M'Drak District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc6"
+  },
+  "code": "653",
+  "name": "Krong Bong District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc7"
+  },
+  "code": "654",
+  "name": "Krong Pac District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc8"
+  },
+  "code": "655",
+  "name": "Krong A Na District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dc9"
+  },
+  "code": "656",
+  "name": "Lak District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dca"
+  },
+  "code": "657",
+  "name": "Cu Kuin District",
+  "province_code": "66"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dcb"
+  },
+  "code": "660",
+  "name": "Gia Nghia City",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dcc"
+  },
+  "code": "661",
+  "name": "Dak Glong District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dcd"
+  },
+  "code": "662",
+  "name": "Cu Jut District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dce"
+  },
+  "code": "663",
+  "name": "Dak Mil District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dcf"
+  },
+  "code": "664",
+  "name": "Krong No District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd0"
+  },
+  "code": "665",
+  "name": "Dak Song District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd1"
+  },
+  "code": "666",
+  "name": "Dak R'Lap District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd2"
+  },
+  "code": "667",
+  "name": "Tuy Duc District",
+  "province_code": "67"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd3"
+  },
+  "code": "672",
+  "name": "Da Lat City",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd4"
+  },
+  "code": "673",
+  "name": "Bao Loc City",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd5"
+  },
+  "code": "674",
+  "name": "Dam Rong District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd6"
+  },
+  "code": "675",
+  "name": "Lac Duong District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd7"
+  },
+  "code": "676",
+  "name": "Lam Ha District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd8"
+  },
+  "code": "677",
+  "name": "Don Duong District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dd9"
+  },
+  "code": "678",
+  "name": "Duc Trong District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dda"
+  },
+  "code": "679",
+  "name": "Di Linh District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ddb"
+  },
+  "code": "680",
+  "name": "Bao Lam District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ddc"
+  },
+  "code": "681",
+  "name": "Da Huoai District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ddd"
+  },
+  "code": "682",
+  "name": "Da Teh District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dde"
+  },
+  "code": "683",
+  "name": "Cat Tien District",
+  "province_code": "68"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ddf"
+  },
+  "code": "688",
+  "name": "Phuoc Long Town",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de0"
+  },
+  "code": "689",
+  "name": "Dong Xoai City",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de1"
+  },
+  "code": "690",
+  "name": "Binh Long Town",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de2"
+  },
+  "code": "691",
+  "name": "Bu Gia Map District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de3"
+  },
+  "code": "692",
+  "name": "Loc Ninh District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de4"
+  },
+  "code": "693",
+  "name": "Bu Dop District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de5"
+  },
+  "code": "694",
+  "name": "Hon Quan District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de6"
+  },
+  "code": "695",
+  "name": "Dong Phu District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de7"
+  },
+  "code": "696",
+  "name": "Bu Dang District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de8"
+  },
+  "code": "697",
+  "name": "Chon Thanh Town",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63de9"
+  },
+  "code": "698",
+  "name": "Phu Rieng District",
+  "province_code": "70"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dea"
+  },
+  "code": "703",
+  "name": "Tay Ninh City",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63deb"
+  },
+  "code": "705",
+  "name": "Tan Bien District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dec"
+  },
+  "code": "706",
+  "name": "Tan Chau District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63ded"
+  },
+  "code": "707",
+  "name": "Duong Minh Chau District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dee"
+  },
+  "code": "708",
+  "name": "Chau Thanh District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63def"
+  },
+  "code": "709",
+  "name": "Hoa Thanh Town",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df0"
+  },
+  "code": "711",
+  "name": "Ben Cau District",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df1"
+  },
+  "code": "712",
+  "name": "Trang Bang Town",
+  "province_code": "72"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df2"
+  },
+  "code": "718",
+  "name": "Thu Dau Mot City",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df3"
+  },
+  "code": "719",
+  "name": "Bau Bang District",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df4"
+  },
+  "code": "720",
+  "name": "Dau Tieng District",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df5"
+  },
+  "code": "721",
+  "name": "Ben Cat Town",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df6"
+  },
+  "code": "722",
+  "name": "Phu Giao District",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df7"
+  },
+  "code": "723",
+  "name": "Tan Uyen City",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df8"
+  },
+  "code": "724",
+  "name": "Di An City",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63df9"
+  },
+  "code": "726",
+  "name": "Bac Tan Uyen District",
+  "province_code": "74"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dfa"
+  },
+  "code": "731",
+  "name": "Bien Hoa City",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dfb"
+  },
+  "code": "732",
+  "name": "Long Khanh City",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dfc"
+  },
+  "code": "734",
+  "name": "Tan Phu District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dfd"
+  },
+  "code": "735",
+  "name": "Vinh Cuu District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dfe"
+  },
+  "code": "736",
+  "name": "Dinh Quan District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63dff"
+  },
+  "code": "737",
+  "name": "Trang Bom District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e00"
+  },
+  "code": "738",
+  "name": "Thong Nhat District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e01"
+  },
+  "code": "739",
+  "name": "Cam My District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e02"
+  },
+  "code": "740",
+  "name": "Long Thanh District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e03"
+  },
+  "code": "741",
+  "name": "Xuan Loc District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e04"
+  },
+  "code": "742",
+  "name": "Nhon Trach District",
+  "province_code": "75"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e05"
+  },
+  "code": "747",
+  "name": "Vung Tau City",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e06"
+  },
+  "code": "748",
+  "name": "Ba Ria City",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e07"
+  },
+  "code": "750",
+  "name": "Chau Duc District",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e08"
+  },
+  "code": "751",
+  "name": "Xuyen Moc District",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e09"
+  },
+  "code": "752",
+  "name": "Long Dien District",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0a"
+  },
+  "code": "753",
+  "name": "Dat Do District",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0b"
+  },
+  "code": "754",
+  "name": "Phu My Town",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0c"
+  },
+  "code": "755",
+  "name": "Con Dao District",
+  "province_code": "77"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0d"
+  },
+  "code": "764",
+  "name": "Go Vap District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0e"
+  },
+  "code": "765",
+  "name": "Binh Thanh District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e0f"
+  },
+  "code": "766",
+  "name": "Tan Binh District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e10"
+  },
+  "code": "767",
+  "name": "Tan Phu District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e11"
+  },
+  "code": "768",
+  "name": "Phu Nhuan District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e12"
+  },
+  "code": "777",
+  "name": "Binh Tan District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e13"
+  },
+  "code": "783",
+  "name": "Cu Chi District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e14"
+  },
+  "code": "784",
+  "name": "Hoc Mon District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e15"
+  },
+  "code": "785",
+  "name": "Binh Chanh District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e16"
+  },
+  "code": "786",
+  "name": "Nha Be District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e17"
+  },
+  "code": "787",
+  "name": "Can Gio District",
+  "province_code": "79"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e18"
+  },
+  "code": "794",
+  "name": "Tan An City",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e19"
+  },
+  "code": "795",
+  "name": "Kien Tuong Town",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1a"
+  },
+  "code": "796",
+  "name": "Tan Hung District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1b"
+  },
+  "code": "797",
+  "name": "Vinh Hung District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1c"
+  },
+  "code": "798",
+  "name": "Moc Hoa District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1d"
+  },
+  "code": "799",
+  "name": "Tan Thanh District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1e"
+  },
+  "code": "800",
+  "name": "Thanh Hoa District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e1f"
+  },
+  "code": "801",
+  "name": "Duc Hue District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e20"
+  },
+  "code": "802",
+  "name": "Duc Hoa District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e21"
+  },
+  "code": "803",
+  "name": "Ben Luc District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e22"
+  },
+  "code": "804",
+  "name": "Thu Thua District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e23"
+  },
+  "code": "805",
+  "name": "Tan Tru District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e24"
+  },
+  "code": "806",
+  "name": "Can Duoc District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e25"
+  },
+  "code": "807",
+  "name": "Can Giuoc District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e26"
+  },
+  "code": "808",
+  "name": "Chau Thanh District",
+  "province_code": "80"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e27"
+  },
+  "code": "815",
+  "name": "My Tho City",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e28"
+  },
+  "code": "816",
+  "name": "Go Cong Town",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e29"
+  },
+  "code": "817",
+  "name": "Cai Lay Town",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2a"
+  },
+  "code": "818",
+  "name": "Tan Phuoc District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2b"
+  },
+  "code": "819",
+  "name": "Cai Be District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2c"
+  },
+  "code": "820",
+  "name": "Cai Lay District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2d"
+  },
+  "code": "821",
+  "name": "Chau Thanh District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2e"
+  },
+  "code": "822",
+  "name": "Cho Gao District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e2f"
+  },
+  "code": "823",
+  "name": "Go Cong Tay District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e30"
+  },
+  "code": "824",
+  "name": "Go Cong Dong District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e31"
+  },
+  "code": "825",
+  "name": "Tan Phu Dong District",
+  "province_code": "82"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e32"
+  },
+  "code": "829",
+  "name": "Ben Tre City",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e33"
+  },
+  "code": "831",
+  "name": "Chau Thanh District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e34"
+  },
+  "code": "832",
+  "name": "Cho Lach District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e35"
+  },
+  "code": "833",
+  "name": "Mo Cay Nam District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e36"
+  },
+  "code": "834",
+  "name": "Giong Trom District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e37"
+  },
+  "code": "835",
+  "name": "Binh Dai District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e38"
+  },
+  "code": "836",
+  "name": "Ba Tri District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e39"
+  },
+  "code": "837",
+  "name": "Thanh Phu District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3a"
+  },
+  "code": "838",
+  "name": "Mo Cay Bac District",
+  "province_code": "83"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3b"
+  },
+  "code": "842",
+  "name": "Tra Vinh City",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3c"
+  },
+  "code": "844",
+  "name": "Cang Long District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3d"
+  },
+  "code": "845",
+  "name": "Cau Ke District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3e"
+  },
+  "code": "846",
+  "name": "Tieu Can District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e3f"
+  },
+  "code": "847",
+  "name": "Chau Thanh District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e40"
+  },
+  "code": "848",
+  "name": "Cau Ngang District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e41"
+  },
+  "code": "849",
+  "name": "Tra Cu District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e42"
+  },
+  "code": "850",
+  "name": "Duyen Hai District",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e43"
+  },
+  "code": "851",
+  "name": "Duyen Hai Town",
+  "province_code": "84"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e44"
+  },
+  "code": "855",
+  "name": "Vinh Long City",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e45"
+  },
+  "code": "857",
+  "name": "Long Ho District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e46"
+  },
+  "code": "858",
+  "name": "Mang Thit District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e47"
+  },
+  "code": "859",
+  "name": "Vung Liem District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e48"
+  },
+  "code": "860",
+  "name": "Tam Binh District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e49"
+  },
+  "code": "861",
+  "name": "Binh Minh Town",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4a"
+  },
+  "code": "862",
+  "name": "Tra On District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4b"
+  },
+  "code": "863",
+  "name": "Binh Tan District",
+  "province_code": "86"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4c"
+  },
+  "code": "866",
+  "name": "Cao Lanh City",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4d"
+  },
+  "code": "867",
+  "name": "Sa Dec City",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4e"
+  },
+  "code": "868",
+  "name": "Hong Ngu City",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e4f"
+  },
+  "code": "869",
+  "name": "Tan Hong District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e50"
+  },
+  "code": "870",
+  "name": "Hong Ngu District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e51"
+  },
+  "code": "871",
+  "name": "Tam Nong District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e52"
+  },
+  "code": "872",
+  "name": "Thap Muoi District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e53"
+  },
+  "code": "873",
+  "name": "Cao Lanh District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e54"
+  },
+  "code": "874",
+  "name": "Thanh Binh District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e55"
+  },
+  "code": "875",
+  "name": "Lap Vo District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e56"
+  },
+  "code": "876",
+  "name": "Lai Vung District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e57"
+  },
+  "code": "877",
+  "name": "Chau Thanh District",
+  "province_code": "87"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e58"
+  },
+  "code": "883",
+  "name": "Long Xuyen City",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e59"
+  },
+  "code": "884",
+  "name": "Chau Doc City",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5a"
+  },
+  "code": "886",
+  "name": "An Phu District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5b"
+  },
+  "code": "887",
+  "name": "Tan Chau Town",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5c"
+  },
+  "code": "888",
+  "name": "Phu Tan District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5d"
+  },
+  "code": "889",
+  "name": "Chau Phu District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5e"
+  },
+  "code": "890",
+  "name": "Tinh Bien Town",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e5f"
+  },
+  "code": "891",
+  "name": "Tri Ton District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e60"
+  },
+  "code": "892",
+  "name": "Chau Thanh District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e61"
+  },
+  "code": "893",
+  "name": "Cho Moi District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e62"
+  },
+  "code": "894",
+  "name": "Thoai Son District",
+  "province_code": "89"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e63"
+  },
+  "code": "899",
+  "name": "Rach Gia City",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e64"
+  },
+  "code": "900",
+  "name": "Ha Tien City",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e65"
+  },
+  "code": "902",
+  "name": "Kien Luong District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e66"
+  },
+  "code": "903",
+  "name": "Hon Dat District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e67"
+  },
+  "code": "904",
+  "name": "Tan Hiep District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e68"
+  },
+  "code": "905",
+  "name": "Chau Thanh District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e69"
+  },
+  "code": "906",
+  "name": "Giong Rieng District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6a"
+  },
+  "code": "907",
+  "name": "Go Quao District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6b"
+  },
+  "code": "908",
+  "name": "An Bien District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6c"
+  },
+  "code": "909",
+  "name": "An Minh District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6d"
+  },
+  "code": "910",
+  "name": "Vinh Thuan District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6e"
+  },
+  "code": "911",
+  "name": "Phu Quoc City",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e6f"
+  },
+  "code": "912",
+  "name": "Kien Hai District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e70"
+  },
+  "code": "913",
+  "name": "U Minh Thuong District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e71"
+  },
+  "code": "914",
+  "name": "Giang Thanh District",
+  "province_code": "91"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e72"
+  },
+  "code": "916",
+  "name": "Ninh Kieu District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e73"
+  },
+  "code": "917",
+  "name": "O Mon District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e74"
+  },
+  "code": "918",
+  "name": "Binh Thuy District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e75"
+  },
+  "code": "919",
+  "name": "Cai Rang District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e76"
+  },
+  "code": "923",
+  "name": "Thot Not District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e77"
+  },
+  "code": "924",
+  "name": "Vinh Thanh District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e78"
+  },
+  "code": "925",
+  "name": "Co Do District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e79"
+  },
+  "code": "926",
+  "name": "Phong Dien District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7a"
+  },
+  "code": "927",
+  "name": "Thoi Lai District",
+  "province_code": "92"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7b"
+  },
+  "code": "930",
+  "name": "Vi Thanh City",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7c"
+  },
+  "code": "931",
+  "name": "Nga Bay City",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7d"
+  },
+  "code": "932",
+  "name": "Chau Thanh A District",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7e"
+  },
+  "code": "933",
+  "name": "Chau Thanh District",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e7f"
+  },
+  "code": "934",
+  "name": "Phung Hiep District",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e80"
+  },
+  "code": "935",
+  "name": "Vi Thuy District",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e81"
+  },
+  "code": "936",
+  "name": "Long My District",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e82"
+  },
+  "code": "937",
+  "name": "Long My Town",
+  "province_code": "93"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e83"
+  },
+  "code": "941",
+  "name": "Soc Trang City",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e84"
+  },
+  "code": "942",
+  "name": "Chau Thanh District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e85"
+  },
+  "code": "943",
+  "name": "Ke Sach District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e86"
+  },
+  "code": "944",
+  "name": "My Tu District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e87"
+  },
+  "code": "945",
+  "name": "Cu Lao Dung District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e88"
+  },
+  "code": "946",
+  "name": "Long Phu District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e89"
+  },
+  "code": "947",
+  "name": "My Xuyen District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8a"
+  },
+  "code": "948",
+  "name": "Nga Nam Town",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8b"
+  },
+  "code": "949",
+  "name": "Thanh Tri District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8c"
+  },
+  "code": "950",
+  "name": "Vinh Chau Town",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8d"
+  },
+  "code": "951",
+  "name": "Tran De District",
+  "province_code": "94"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8e"
+  },
+  "code": "954",
+  "name": "Bac Lieu City",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e8f"
+  },
+  "code": "956",
+  "name": "Hong Dan District",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e90"
+  },
+  "code": "957",
+  "name": "Phuoc Long District",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e91"
+  },
+  "code": "958",
+  "name": "Vinh Loi District",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e92"
+  },
+  "code": "959",
+  "name": "Gia Rai Town",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e93"
+  },
+  "code": "960",
+  "name": "Dong Hai District",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e94"
+  },
+  "code": "961",
+  "name": "Hoa Binh District",
+  "province_code": "95"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e95"
+  },
+  "code": "964",
+  "name": "Ca Mau City",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e96"
+  },
+  "code": "966",
+  "name": "U Minh District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e97"
+  },
+  "code": "967",
+  "name": "Thoi Binh District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e98"
+  },
+  "code": "968",
+  "name": "Tran Van Thoi District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e99"
+  },
+  "code": "969",
+  "name": "Cai Nuoc District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e9a"
+  },
+  "code": "970",
+  "name": "Dam Doi District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e9b"
+  },
+  "code": "971",
+  "name": "Nam Can District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e9c"
+  },
+  "code": "972",
+  "name": "Phu Tan District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e9d"
+  },
+  "code": "973",
+  "name": "Ngoc Hien District",
+  "province_code": "96"
+},
+{
+  "_id": {
+    "$oid": "6504664152b4ed5223d63e9e"
+  },
+  "code": "769",
+  "name": "Thu Duc City",
+  "province_code": "79"
+}]

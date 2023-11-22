@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63b9e"
+  },
+  "code": "01",
+  "name": "Ha Noi City"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63b9f"
+  },
+  "code": "26",
+  "name": "Vinh Phuc Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba0"
+  },
+  "code": "27",
+  "name": "Bac Ninh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba1"
+  },
+  "code": "30",
+  "name": "Hai Duong Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba2"
+  },
+  "code": "31",
+  "name": "Hai Phong City"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba3"
+  },
+  "code": "33",
+  "name": "Hung Yen Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba4"
+  },
+  "code": "34",
+  "name": "Thai Binh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba5"
+  },
+  "code": "35",
+  "name": "Ha Nam Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba6"
+  },
+  "code": "96",
+  "name": "Ca Mau Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba7"
+  },
+  "code": "02",
+  "name": "Ha Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba8"
+  },
+  "code": "04",
+  "name": "Cao Bang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63ba9"
+  },
+  "code": "06",
+  "name": "Bac Kan Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63baa"
+  },
+  "code": "08",
+  "name": "Tuyen Quang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bab"
+  },
+  "code": "19",
+  "name": "Thai Nguyen Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bac"
+  },
+  "code": "20",
+  "name": "Lang Son Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bad"
+  },
+  "code": "22",
+  "name": "Quang Ninh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bae"
+  },
+  "code": "24",
+  "name": "Bac Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63baf"
+  },
+  "code": "25",
+  "name": "Phu Tho Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb0"
+  },
+  "code": "10",
+  "name": "Lao Cai Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb1"
+  },
+  "code": "11",
+  "name": "Dien Bien Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb2"
+  },
+  "code": "12",
+  "name": "Lai Chau Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb3"
+  },
+  "code": "14",
+  "name": "Son La Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb4"
+  },
+  "code": "15",
+  "name": "Yen Bai Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb5"
+  },
+  "code": "17",
+  "name": "Hoa Binh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb6"
+  },
+  "code": "70",
+  "name": "Binh Phuoc Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb7"
+  },
+  "code": "72",
+  "name": "Tay Ninh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb8"
+  },
+  "code": "74",
+  "name": "Binh Duong Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bb9"
+  },
+  "code": "75",
+  "name": "Dong Nai Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bba"
+  },
+  "code": "79",
+  "name": "Ho Chi Minh City"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bbb"
+  },
+  "code": "77",
+  "name": "Ba Ria - Vung Tau Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bbc"
+  },
+  "code": "36",
+  "name": "Nam Dinh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bbd"
+  },
+  "code": "37",
+  "name": "Ninh Binh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bbe"
+  },
+  "code": "38",
+  "name": "Thanh Hoa Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bbf"
+  },
+  "code": "40",
+  "name": "Nghe An Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc0"
+  },
+  "code": "42",
+  "name": "Ha Tinh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc1"
+  },
+  "code": "44",
+  "name": "Quang Binh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc2"
+  },
+  "code": "45",
+  "name": "Quang Tri Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc3"
+  },
+  "code": "46",
+  "name": "Thua Thien Hue Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc4"
+  },
+  "code": "48",
+  "name": "Da Nang City"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc5"
+  },
+  "code": "49",
+  "name": "Quang Nam Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc6"
+  },
+  "code": "51",
+  "name": "Quang Ngai Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc7"
+  },
+  "code": "52",
+  "name": "Binh Dinh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc8"
+  },
+  "code": "54",
+  "name": "Phu Yen Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bc9"
+  },
+  "code": "56",
+  "name": "Khanh Hoa Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bca"
+  },
+  "code": "58",
+  "name": "Ninh Thuan Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bcb"
+  },
+  "code": "60",
+  "name": "Binh Thuan Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bcc"
+  },
+  "code": "62",
+  "name": "Kon Tum Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bcd"
+  },
+  "code": "64",
+  "name": "Gia Lai Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bce"
+  },
+  "code": "66",
+  "name": "Dak Lak Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bcf"
+  },
+  "code": "67",
+  "name": "Dak Nong Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd0"
+  },
+  "code": "68",
+  "name": "Lam Dong Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd1"
+  },
+  "code": "80",
+  "name": "Long An Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd2"
+  },
+  "code": "82",
+  "name": "Tien Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd3"
+  },
+  "code": "83",
+  "name": "Ben Tre Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd4"
+  },
+  "code": "84",
+  "name": "Tra Vinh Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd5"
+  },
+  "code": "86",
+  "name": "Vinh Long Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd6"
+  },
+  "code": "87",
+  "name": "Dong Thap Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd7"
+  },
+  "code": "89",
+  "name": "An Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd8"
+  },
+  "code": "91",
+  "name": "Kien Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bd9"
+  },
+  "code": "92",
+  "name": "Can Tho City"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bda"
+  },
+  "code": "93",
+  "name": "Hau Giang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bdb"
+  },
+  "code": "94",
+  "name": "Soc Trang Province"
+},
+{
+  "_id": {
+    "$oid": "6504631652b4ed5223d63bdc"
+  },
+  "code": "95",
+  "name": "Bac Lieu Province"
+}]
