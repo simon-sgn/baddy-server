@@ -77,7 +77,7 @@ exports.getDistricts = async (req, res, next) => {
                 const initials = words.map((word) => word[0]).join("");
 
                 // Return the district name concatenated with the province initials
-                return `${district.name}, ${initials}`;
+                return `${district.name} (${initials})`;
             })
         );
     } catch (error) {
